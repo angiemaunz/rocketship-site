@@ -1,4 +1,4 @@
 rocketship-wscci
 ================
 
-Rocketship site for D8 WSCCI intitative
+Rocketship site codebase for D8 initiatives 
